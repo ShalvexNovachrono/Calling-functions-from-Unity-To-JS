@@ -1,5 +1,5 @@
-# Calling-functions-from-Unity-To-JS
-Use Unity To Call JavaScript Functions And Vice Versa
+# Calling-functions-from-WebGL-Unity-To-JS
+Use WebGL Unity To Call JavaScript Functions And Vice Versa
 
 The Bridge.cs files goes in Unity Project Assest Folder
 As for the index.html, don't copy the whole file. Why, you may ask? It will give you errors.
